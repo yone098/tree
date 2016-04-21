@@ -5,13 +5,13 @@ Implement the tree command with `find` and `sed`.
 ## Usage
 
 ```
-https://github.com/yone098/tree.git
+git clone https://github.com/yone098/tree.git
 chmod +x tree/tree
 PATH=$PATH:tree/tree
 tree
 ```
 
-examples
+### examples
 ```
 $ tree
 /home/yone098/project
